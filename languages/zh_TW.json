@@ -27,7 +27,8 @@
             "pinRepeating": "不允許重複（即 444444）或順序（即 234567）值",
             "requestQueued": "離線，請求正在排隊...",
             "text": "文本",
-            "tryAgain": "發生了錯誤。請再試一次"
+            "tryAgain": "發生了錯誤。請再試一次",
+            "loginCredentials": "無效的使用者名稱或密碼"
         },
         "filter": "篩選",
         "filterBy": "過濾",
@@ -90,6 +91,11 @@
         "otp": "OTP",
         "churchCommitment": "教會的承諾",
         "favoriteContacts": "常用聯繫人",
-        "storage": "存儲"
+        "storage": "存儲",
+        "launchCard": {
+            "title": "載入資料以供離線使用",
+            "body": "預先存取收藏夾和任何最近修改的記錄（供離線使用）"
+        },
+        "favoriteGroups": "喜歡的團體"
     }
 }
